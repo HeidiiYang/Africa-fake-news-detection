@@ -12,4 +12,4 @@ deployed using Streamlit for interactive visualisation.
 
   
 
-**Live Demo:** https://africa-fake-news-detection.streamlit.app/
+**Live Demo:** https://africa-fake-news-detection-s5a8bzbgkyelztwlr46rsr.streamlit.app/
