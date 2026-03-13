@@ -68,7 +68,7 @@ def feature_matching(df_text_feature):
 with st.sidebar:
     selected=option_menu("Fake News Detection", ["Project Description", "Exploratory Data Analysis", "Modelling", "News Detection Tool"], 
                          menu_icon="newspaper", 
-                         default_index=1, styles={
+                         default_index=0, styles={
                               "menue_icon": {"color": "#949cdf"},
                               "icon": {"color": "#949cdf", "font-size": "18px"}, 
                               "nav-link": {"font-size": "16px", "text-align": "left", "margin":"0px", "--hover-color": "#eee"},
